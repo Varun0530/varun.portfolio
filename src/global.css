@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Preahvihear:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poor+Story:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PoetsenOne:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-preahvihear: Preahvihear;
+  --font-poetsenone: PoetsenOne;
+  --font-poor-story: "Poor Story";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-mid: 17px;
+  --font-size-3xs: 10px;
+  --font-size-7xl: 26px;
+  --font-size-15xl: 34px;
+  --font-size-21xl: 40px;
+  --font-size-3xl: 22px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color-silver: #c8c1c1;
+  --color-white: #fff;
+  --color-lightsteelblue: #ccd6f6;
+  --color-gainsboro: #ebe3e3;
+  --color-midnightblue: #2c1250;
+  --color-darkorchid: #7127ba;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-8xs: 5px;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-mini: 15px;
+  --br-3xs: 10px;
+}
